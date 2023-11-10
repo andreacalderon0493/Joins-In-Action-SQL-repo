@@ -112,4 +112,4 @@ INSERT INTO movies_library.users(user_id,first_name,last_name,favorite_movie_id)
 INSERT INTO movies_library.users(user_id,first_name,last_name,favorite_movie_id) VALUES (13,'Theodore','Cain',6);
 INSERT INTO movies_library.users(user_id,first_name,last_name,favorite_movie_id) VALUES (14,'Caden','Dunlap',32);
 INSERT INTO movies_library.users(user_id,first_name,last_name,favorite_movie_id) VALUES (15,'Ann','Mustafa',3);
-INSERT INTO movies_library.users(user_id,first_name,last_name,favorite_movie_id) VALUES (16,'Troy','Taylor',65);
+INSERT INTO movies_library.users(user_id,first_name,last_name,favorite_movie_id) VALUES (16,'Troy','Taylor',65);movies
